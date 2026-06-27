@@ -9,6 +9,6 @@
 
 - Tipografía LOGO: 
 
-- Paleta de colores: 
+- Paleta de colores: Naranja, Negro, Rojo 
 
-- Publico objetivo: 
+- Publico objetivo: Personas de cualquier edad que sean jugadores o fanáticos del mundo Pokemon, principalmente jóvenes y adultos jóvenes entre 15 y 30 años, que buscan una herramienta digital para explorar, organizar y coleccionar Pokémon de forma interactiva. También apunta a jugadores casuales que quieran consultar información rápida sobre estadísticas, tipos y evoluciones, así como a usuarios con interés en el componente social de intercambiar Pokémon con otros entrenadores.
