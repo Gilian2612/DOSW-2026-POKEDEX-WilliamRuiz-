@@ -4,6 +4,8 @@
 
 ## Descripción del proyecto
 
+WildDex es una aplicación móvil para entrenadores Pokémon que permite explorar el catálogo completo de Pokémon, gestionar tu colección personal de capturas y favoritos, comparar estadísticas entre Pokémon y intercambiarlos con otros entrenadores a través de un mercado integrado 
+
 ## Funcionalidades
 
 ## Requerimientos funcionales
@@ -58,3 +60,6 @@ Escalabilidad (usuarios concurrentes)
 ## Enlace al tablero de Jira
 
 ## Enlace al prototipo 
+
+https://dosw-ruiz-william-wild-dex-v1.lovable.app
+
